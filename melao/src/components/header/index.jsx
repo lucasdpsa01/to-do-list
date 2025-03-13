@@ -1,4 +1,4 @@
-export default function header() {
+export default function Header() {
     return(
         <div className="header">
             <h1>To do List</h1>

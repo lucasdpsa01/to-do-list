@@ -1,9 +1,10 @@
+import Header from "./components/header"
 import Create from "./components/create"
 
 export default function App() {
   return(
     <div>
-      oi
+      <Header />
       <Create />
     </div>
   )
